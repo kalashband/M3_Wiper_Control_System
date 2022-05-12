@@ -1,1 +1,3 @@
-# Abstraction
+# Wiper Control System 
+Now a days Wiper are most Important thing in four wheel Vehicles. Day by day its getting more automated and working according to  enviroment. In Early days wiper were often driver by a vacuum motor powered by manifold vacuum. And now a days wiper is control by it self according to weather or by detecting rain. One off the example is of BMW Automatic wiper which work with help of LED sensor which detect amount of rain and water and work according. In mercedes wiper automatically adjust frequency based on rainfall at any particular moment.
+Here designed system is work on simple mechanism, its start by clicking ones on button its start with slow speed on second click move in moderate speed and on third click its move bit faster. Here used microcontroller is ARM based STM32F4.Instead of motor here we use three LED which blink alternatively, and for controlling the system we use push button.

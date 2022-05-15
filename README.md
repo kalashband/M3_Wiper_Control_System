@@ -8,3 +8,4 @@ we use wiper is control with single switch and and if Wiper stop at any position
  # Badges:
 [![Build CI - Windows](https://github.com/kalashband/M3_Wiper_Control_System/actions/workflows/quality.yml/badge.svg)](https://github.com/kalashband/M3_Wiper_Control_System/actions/workflows/quality.yml)
  
+ [![Build-Linux](https://github.com/kalashband/M3_Wiper_Control_System/actions/workflows/build_linux.yml/badge.svg)](https://github.com/kalashband/M3_Wiper_Control_System/actions/workflows/build_linux.yml)

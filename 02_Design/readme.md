@@ -1,5 +1,5 @@
 ## STM Board 
 
-## Block Diagram 
+## State transaction
 
-## Flow Chart
+## Flow chart

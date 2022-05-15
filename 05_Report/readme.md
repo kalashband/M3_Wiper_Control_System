@@ -87,3 +87,7 @@ A wiper speed control system for an automotive wiper control the operational spe
 |  03 |  Button pressed third time            | Implemented |
 |  04 |  Button pressed fourth time           | Implemented |
 |  05 |  Button pressed again for two seconds | Implemented |
+
+## Conclusion 
+
+## Result 

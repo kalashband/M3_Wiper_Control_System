@@ -6,5 +6,5 @@ Wiper control System applied in vehicles for clearing front and back wind shild.
 we use wiper is control with single switch and and if Wiper stop at any position in automatically come to initial position. Its primary function is to remove rain water from wind shild even in heavy rain.
  
  # Badges:
-
+[![Build CI - Windows](https://github.com/kalashband/M3_Wiper_Control_System/actions/workflows/quality.yml/badge.svg)](https://github.com/kalashband/M3_Wiper_Control_System/actions/workflows/quality.yml)
  

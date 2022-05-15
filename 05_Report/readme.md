@@ -10,6 +10,8 @@
 * Wiper control (Wiper is ON) The led glow stop on the 4th press and go to initial LED.
 * Ignition key at lock the red led is off if user button is press anf held for 2 secs.
 
+![This is an image](https://github.com/kalashband/M3_Wiper_Control_System/blob/main/02_Design/flow%20chart.png)
+
 ## Features
 A wiper speed control system for an automotive wiper control the operational speed of a wiper in accordance with rain condition. the control system include a rain sensor detecting rai condition to produce.An analog signal having an amplitude depending upon the detected rain condition.
 
